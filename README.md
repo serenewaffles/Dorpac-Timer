@@ -1,3 +1,4 @@
+[![.github/workflows/arduino-lint.yaml](https://github.com/serenewaffles/Dorpac-timer/actions/workflows/arduino-lint.yaml/badge.svg)](https://github.com/serenewaffles/Dorpac-timer/actions/workflows/arduino-lint.yaml)
 # Dorpac-timer
 
 ### Description
