@@ -1,0 +1,5 @@
+timer	KEYWORD1
+timer	KEYWORD2
+isDone	KEYWORD2
+setInterval	KEYWORD2
+resetTimer	KEYWORD2
